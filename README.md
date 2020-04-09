@@ -32,3 +32,4 @@ program s návratovým kódem 1 (chybový kód předán jako parametr metodě En
 Při úspěšném dokončení programu je návratový kód 0 (nastaveno v metodě Main).
 
 Komentáře v programu i chybová hlášení jsou uvedeny v angličtině.
+
